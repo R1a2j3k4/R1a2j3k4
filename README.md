@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Raj Kumar Singh**
 
-### 💻 Computer Science Enthusiast | Developer | Tech Learner
+### 💻 Computer Science Enthusiast | Developer |data analytics|AI/ml Tech Learner
 
 Welcome to my GitHub profile!  
 I’m passionate about coding, building real-world projects, and exploring new technologies.
@@ -8,11 +8,17 @@ I’m passionate about coding, building real-world projects, and exploring new t
 ---
 
 ## 🚀 Skills & Technologies
-- **Programming Languages:** C, C++, Python, Java  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-- **Areas of Interest:** Web Dev, DSA, Projects, Automation
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap
 
+Backend: Node.js, Express.js, REST APIs
+
+Databases: MongoDB, MySQL, Firebase
+
+AI/ML: Python, NumPy, Pandas, Scikit-learn, TensorFlow
+
+Tools & Platforms: Git, GitHub, VS Code, Postman
+
+Other: Project Management, Team Leadership, Agile Workflow
 ---
 
 ## 📂 Featured Projects
@@ -37,8 +43,8 @@ Short description of your project.
 ---
 
 ## 📫 Connect With Me
-- **Email:** your-email@gmail.com  
-- **LinkedIn:** your-link  
+- **Email:** singhanmol2712@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/raj-kumar-singh-7755212b6  
 - **Portfolio:** (if any)
 
 ---
